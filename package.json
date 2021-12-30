@@ -1,11 +1,20 @@
 {
   "name": "godo-gifcap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "godocms 截屏插件",
   "main": "info.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godo-cms/godo-gifcap.git"
+  },
+  "keywords": [
+    "godocms",
+    "截屏",
+    "nodejs"
+  ],
   "author": "godocms.com",
   "license": "ISC"
 }

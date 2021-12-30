@@ -1,4 +1,4 @@
-## godocms 截屏插件
+## godocms 工具类目截屏插件
 
 
 ```bash
